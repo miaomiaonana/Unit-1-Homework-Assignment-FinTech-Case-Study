@@ -84,9 +84,15 @@ It also needs to be more responsible for the whole industry's growth and image. 
 
 ## References
 [From Burgers to Bitcoin Billions: How CZ Built a Leading Crypto Exchange in Just 180 Days](https://www.binance.com/en/blog/from-cz/from-burgers-to-bitcoin-billions-how-cz-built-a-leading-crypto-exchange-in-just-180-days-421499824684901276)
+
 [VC Giant Sequoia Sues Crypto Exchange Binance Over Failed Financing Deal](https://www.ccn.com/vc-giant-sequoia-sues-crypto-exchange-binance-over-failed-financing-deal/)
+
 [Mind-Blowing Binance Statistics and Facts for 2023](https://www.banklesstimes.com/binance-statistics/)
+
 [https://coinmarketcap.com/rankings/exchanges/](https://coinmarketcap.com/rankings/exchanges/)
+
 [https://www.bnbchain.org/en/smartChain](https://www.bnbchain.org/en/smartChain)
+
 [https://en.wikipedia.org/wiki/FTX](https://en.wikipedia.org/wiki/FTX)
+
 [https://www.binance.com/en/proof-of-reserves](https://www.binance.com/en/proof-of-reserves)
