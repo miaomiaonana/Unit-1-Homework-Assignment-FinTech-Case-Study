@@ -34,15 +34,19 @@ The Binance product quickly established itself as being too compelling for the c
 My understanding of this question can be summarised in the following bullet points.
 
 - First-mover advantage
+  
 Finance joined the CEX fields in the very early days. There were some CEXs such as Bitfinex. But I mean Binance is probably the first one to create a mobile trading app with a smooth user experience.
 
 - Customer focused
+  
 Co-founder Heyi is the lead of the customer service team, they have great care for each level of client. Focusing on the VVVIP clients, they sent gifts with Finance logo. A lot of those VVVIP users are also influencers with a lot of followers on Twitter. When they post their gift from Binance, it's kind of a show-off from those crypto OG and also a big promotion on the Binance brand.
 
 - IEO in 2018
+  
 2018 is a long and painful bear market for a lot of crypto enthusiasts. A lot of crypto projects and centralised exchanges were liquidated in that year. However, Finance started IEO (Initial Exchange Offering), which becomes the highlight in that gloomy year. Binance users can use $BNB to participate in the project in the very early stage, at almost the same cost as huge venture capital, but even better, with no lock-up period. A lot of projects had at least 10X return when listed. The IEO platform captures the value to $BNB, which allows it to hold a solid piece in the bear market and thrive in the bull run, and so does Binance.
 
 - Catch the craze
+  
 Binance not only leads the trend but also reacts to the trends and hot themes in the market very quickly. When Defi is getting popular in 2019, Binance started Binance smart chain, with BRC20 tokens. BSC empowers its users to build their decentralised apps and digital assets, just like a copycat of Ethereum, but faster. It is EVM Compatible, using POS, with only 3s block time. When talking about the defi summer in 2020, apart from the famous defi apps on Ethereum, a lot of BSC Defi apps also play an important role in that summer. Crypto narratives keep evolving from Defi to Gamefi, NFT, and Binance have never been absent from them.
 
 
