@@ -18,14 +18,16 @@ CZ was in charge of transforming Binance into a decentralised business with a qu
 
 The Binance product quickly established itself as being too compelling for the crypto community to be held back by persistent difficulties. After only six months of operation, Binance shot to the top of the list of cryptocurrency exchanges, where it has remained to this day.
 
->Binance’s number of users was 89.5 million in August 2023.
->The number of Binance active users was around 877,682 addresses per day in late August 2023.
-> The Binance.us number of users was 2.5 million in August 2023.
-> BUSD exceeded $17 billion in market capitalisation during the first half of 2023.
-> Binance’s revenue amounted to around $20 billion in 2021.
-> Binance Labs has set aside $500 million for Web3 and Blockchain projects.
-> Binance trading volume is around 9 billion per day, with 387 coins listed.
-> Binance has 633K BTC in its reserve, leading in BTC reserve ranking
+- Binance’s number of users was 89.5 million in August 2023.
+- The number of Binance active users was around 877,682 addresses per day in late August 2023.
+- The Binance.us number of users was 2.5 million in August 2023.
+- BUSD exceeded $17 billion in market capitalisation during the first half of 2023. (BUSD is the stablecoin issued by Paxos but listed on Binance)
+- Binance’s revenue amounted to around $20 billion in 2021.
+- Binance Labs has set aside $500 million for Web3 and Blockchain projects.
+- Binance trading volume is around 9 billion per day, with 387 coins listed.
+- Binance has 633K BTC in its reserve, leading in BTC reserve ranking
+
+  ![image](Crypto Exchange Rank.png)
 
 ### But why Binance can be the largest crypto exchange?
 
