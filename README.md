@@ -27,7 +27,7 @@ The Binance product quickly established itself as being too compelling for the c
 - Binance trading volume is around 9 billion per day, with 387 coins listed.
 - Binance has 633K BTC in its reserve, leading in BTC reserve ranking
 
-  ![image](Crypto Exchange Rank.png)
+  ![image](CryptoExchangeRank.png)
 
 ### But why Binance can be the largest crypto exchange?
 
