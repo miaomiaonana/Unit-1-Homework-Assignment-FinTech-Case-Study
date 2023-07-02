@@ -33,16 +33,16 @@ The Binance product quickly established itself as being too compelling for the c
 
 My understanding of this question can be summarised in the following bullet points.
 
-> First-mover advantage
+- First-mover advantage
 Finance joined the CEX fields in the very early days. There were some CEXs such as Bitfinex. But I mean Binance is probably the first one to create a mobile trading app with a smooth user experience.
 
-> Customer focused
+- Customer focused
 Co-founder Heyi is the lead of the customer service team, they have great care for each level of client. Focusing on the VVVIP clients, they sent gifts with Finance logo. A lot of those VVVIP users are also influencers with a lot of followers on Twitter. When they post their gift from Binance, it's kind of a show-off from those crypto OG and also a big promotion on the Binance brand.
 
-> IEO in 2018
+- IEO in 2018
 2018 is a long and painful bear market for a lot of crypto enthusiasts. A lot of crypto projects and centralised exchanges were liquidated in that year. However, Finance started IEO (Initial Exchange Offering), which becomes the highlight in that gloomy year. Binance users can use $BNB to participate in the project in the very early stage, at almost the same cost as huge venture capital, but even better, with no lock-up period. A lot of projects had at least 10X return when listed. The IEO platform captures the value to $BNB, which allows it to hold a solid piece in the bear market and thrive in the bull run, and so does Binance.
 
-> Catch the craze
+- Catch the craze
 Binance not only leads the trend but also reacts to the trends and hot themes in the market very quickly. When Defi is getting popular in 2019, Binance started Binance smart chain, with BRC20 tokens. BSC empowers its users to build their decentralised apps and digital assets, just like a copycat of Ethereum, but faster. It is EVM Compatible, using POS, with only 3s block time. When talking about the defi summer in 2020, apart from the famous defi apps on Ethereum, a lot of BSC Defi apps also play an important role in that summer. Crypto narratives keep evolving from Defi to Gamefi, NFT, and Binance have never been absent from them.
 
 
@@ -66,6 +66,8 @@ After the calamity of FTX collapse, Binance was criticised as being the trigger 
 
 Crypto traders lost trust in CEX and focus on DEX (Decentralised Exchange) more. It was at this urgent time, Binance started its Proof of Reserve, which publishes its reserve address and tracks the balance of all the tokens in its wallets. Proof of Address utilises the Merkle tree, a cryptographic tool that enables the consolidation of large amounts of data into a single hash, which gives users the ability to verify specific contents that were included within a particular set of “sealed” data. By using a zk-SNARK, a crypto exchange can prove that all Merkle tree leaf nodes’ balance sets (i.e., user account balances) contribute to the exchange’s claimed total user asset balance. Each user can easily access their leaf node as having been included in the process. After this Proof of Reserve approach, many CEX followed Binance to publish at least something to show how they safeguard clients' funds, which is a big progress to crack the CEX black box.
 
+![image](BinanceReserve.png)
+
 What's more, a lot of regulators who used to be open-minded about cryptos become more prudential in their license to crypto-related products. As the leader in the crypto Industry, Binance is also facing more and more strict supervision. On 5 June 202, SEC Files 13 Charges Against Binance Entities and Founder Changpeng Zhao. Charges include operating unregistered exchanges, broker-dealers, and clearing agencies; misrepresenting trading controls and oversight on the Binance.US platform; and the unregistered offer and sale of securities.
 
 
@@ -74,7 +76,7 @@ What's more, a lot of regulators who used to be open-minded about cryptos become
 As the giant in the crypto industry, Binance needs to contribute more to compliance, the establishment of relevant regulations, and education on people who have limited knowledge about crypto.
 It also needs to be more responsible for the whole industry's growth and image. When it's necessary, maybe give up some market shares to competitors, which can help Binance have more allies when facing the regulators.
 
- 
+
 
 ## References
 [From Burgers to Bitcoin Billions: How CZ Built a Leading Crypto Exchange in Just 180 Days](https://www.binance.com/en/blog/from-cz/from-burgers-to-bitcoin-billions-how-cz-built-a-leading-crypto-exchange-in-just-180-days-421499824684901276)
