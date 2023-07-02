@@ -6,7 +6,7 @@ Changpeng Zhao, a developer who previously designed high-frequency trading softw
 
 Back in 2017, ICO was the theme of the whole bull run. Binance was also successfully launched through a 15 million ICO, and $BNB was issued at around $1 during ICO. $BNB is still one of the most rewarded tokens with more than 200x returns within 4 years, relying on Binance's crazily high-profit business mode.
 
-[!BNB.png]
+[!bnb](https://github.com/miaomiaonana/Unit-1-Homework-Assignment-FinTech-Case-Study/blob/main/BNB.png)
 
 In 2018, Sequoia Capital, a venture capital firm, sued Binancefor allegedly breaching an exclusivity agreement. When Binance launched in August 2017, Zhao was negotiating terms with Sequoia Capital regarding an investment. Sequoia invested slightly more than $8 million in Binance for an 11% interest in talks that valued the cryptocurrency at $80 million at the time. Zhao's team advised Sequoia that Binance's shareholders considered the suggested $80 million to be an undervaluation. As the deal failed to materialize, Zhao of Binance received a separate offer from another venture capital firm, IDG Capital. The terms of the much higher valuation included two planned rounds of fundraising of $400 million and $1 billion, respectively.
 
