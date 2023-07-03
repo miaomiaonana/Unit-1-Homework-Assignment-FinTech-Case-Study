@@ -8,7 +8,7 @@ Back in 2017, ICO was the theme of the whole bull run. Binance was also successf
 
 ![image](BNB.png)
 
-In 2018, Sequoia Capital, a venture capital firm, sued Binancefor allegedly breaching an exclusivity agreement. When Binance launched in August 2017, Zhao was negotiating terms with Sequoia Capital regarding an investment. Sequoia invested slightly more than $8 million in Binance for an 11% interest in talks that valued the cryptocurrency at $80 million at the time. Zhao's team advised Sequoia that Binance's shareholders considered the suggested $80 million to be an undervaluation. As the deal failed to materialize, Zhao of Binance received a separate offer from another venture capital firm, IDG Capital. The terms of the much higher valuation included two planned rounds of fundraising of $400 million and $1 billion, respectively.
+In 2018, Sequoia Capital, a venture capital firm, sued Binancefor allegedly breaching an exclusivity agreement[2]. When Binance launched in August 2017, Zhao was negotiating terms with Sequoia Capital regarding an investment. Sequoia invested slightly more than $8 million in Binance for an 11% interest in talks that valued the cryptocurrency at $80 million at the time. Zhao's team advised Sequoia that Binance's shareholders considered the suggested $80 million to be an undervaluation. As the deal failed to materialize, Zhao of Binance received a separate offer from another venture capital firm, IDG Capital. The terms of the much higher valuation included two planned rounds of fundraising of $400 million and $1 billion, respectively.
 
 Through the growth of Binance, it has never been absent from headlines.
 
@@ -16,7 +16,7 @@ Through the growth of Binance, it has never been absent from headlines.
 ## Business Activities
 CZ was in charge of transforming Binance into a decentralised business with a quick-thinking global team. Additionally, he was a driving force behind Binance's growth into an exchange that provides users with clear benefits, huge volumes, and low costs.
 
-The Binance product quickly established itself as being too compelling for the crypto community to be held back by persistent difficulties. After only six months of operation, Binance shot to the top of the list of cryptocurrency exchanges, where it has remained to this day.
+The Binance product quickly established itself as being too compelling for the crypto community to be held back by persistent difficulties. After only six months of operation, Binance shot to the top of the list of cryptocurrency exchanges, where it has remained to this day[1].
 
 - Binance’s number of users was 89.5 million in August 2023.
 - The number of Binance active users was around 877,682 addresses per day in late August 2023.
@@ -25,7 +25,7 @@ The Binance product quickly established itself as being too compelling for the c
 - Binance’s revenue amounted to around $20 billion in 2021.
 - Binance Labs has set aside $500 million for Web3 and Blockchain projects.
 - Binance trading volume is around 9 billion per day, with 387 coins listed.
-- Binance has 633K BTC in its reserve, leading in BTC reserve ranking
+- Binance has 633K BTC in its reserve, leading in BTC reserve ranking [3]
 
   ![image](CryptoExchangeRank.png)
 
@@ -47,7 +47,7 @@ Co-founder Heyi is the lead of the customer service team, they have great care f
 
 - **Catch the craze**
   
-Binance not only leads the trend but also reacts to the trends and hot themes in the market very quickly. When Defi is getting popular in 2019, Binance started Binance smart chain, with BRC20 tokens. BSC empowers its users to build their decentralised apps and digital assets, just like a copycat of Ethereum, but faster. It is EVM Compatible, using POS, with only 3s block time. When talking about the defi summer in 2020, apart from the famous defi apps on Ethereum, a lot of BSC Defi apps also play an important role in that summer. Crypto narratives keep evolving from Defi to Gamefi, NFT, and Binance have never been absent from them.
+Binance not only leads the trend but also reacts to the trends and hot themes in the market very quickly. When Defi is getting popular in 2019, Binance started Binance smart chain [5], with BRC20 tokens. BSC empowers its users to build their decentralised apps and digital assets, just like a copycat of Ethereum, but faster. It is EVM Compatible, using POS, with only 3s block time. When talking about the defi summer in 2020, apart from the famous defi apps on Ethereum, a lot of BSC Defi apps also play an important role in that summer. Crypto narratives keep evolving from Defi to Gamefi, NFT, and Binance have never been absent from them.
 
 
 ## Landscape
@@ -55,20 +55,20 @@ Binance not only leads the trend but also reacts to the trends and hot themes in
 CEX has been criticised as being too centralised, which departs from the spirit of blockchain -- decentralisation. The criticism of CEX usually focuses on price manipulation, the black box of clients' funds custody.
 
 In the 2017 bull run, Bitfinex, Okcoin, Huobi, Poloniex etc.
-But in the 2020 - 2022 bull run, Binance, FTX, Coinbase, Karenken, Crypto.com, Okex, Bybit led the market. 
+But in the 2020 - 2022 bull run, Binance, FTX, Coinbase, Karenken, Crypto.com, Okex, Bybit led the market [4]. 
 
 A lot of changes could happen in the crypto world within just 5 years, the top CEX ranks also never stop changing. But Binance has been quite stable in its #1 place for at least 3 years.
 
 Its biggest competitor, FTX, was started by Sam Bankman-Fried (SBF) in May 2019. FTX is an abbreviation of "Futures Exchange". Changpeng Zhao of Binance purchased a 20% stake in FTX for approximately $100 million, six months after Bankman-Fried and Wang started the firm. FTX has a very good design on its derivative products, which was favoured by futures traders, which Binance can't beat. And FTX also has the most regulated CEX brand image at that time. At its peak in July 2021, FTX had over one million users and was the third-largest cryptocurrency exchange by volume.
 
-However, what happened in late 2022 surprised all the crypto traders. FTX collapsed with 3.1 billion debt to large creditors and 5 billion to 9 million customers within a month. The trigger of this tragedy is Binance sell-off of $FTT (tokens issued by FTX), and CZ's twit which cause the panic and bank run. But what really destroyed FTX crypto empire is its bad compliance, terrible internal control, chaotic management and risk appetite. The bankruptcy of FTX raises people's concern about how CEX segregate clients' funds, and highlights the importance of decentralisation, the reason why people need BTC and blockchain - "not your key, not your money"
+However, what happened in late 2022 surprised all the crypto traders. FTX collapsed with 3.1 billion debt to large creditors and 5 billion to 9 million customers within a month. The trigger of this tragedy is Binance sell-off of $FTT (tokens issued by FTX), and CZ's twit which cause the panic and bank run. But what really destroyed FTX crypto empire is its bad compliance, terrible internal control, chaotic management and risk appetite[6]. The bankruptcy of FTX raises people's concern about how CEX segregate clients' funds, and highlights the importance of decentralisation, the reason why people need BTC and blockchain - "not your key, not your money"
 
 
 ## Results
 
 After the calamity of FTX collapse, Binance was criticised as being the trigger of many people's loss. And killing its biggest enemy causes Binance at risk of violating antitrust laws. 
 
-Crypto traders lost trust in CEX and focus on DEX (Decentralised Exchange) more. It was at this urgent time, Binance started its Proof of Reserve, which publishes its reserve address and tracks the balance of all the tokens in its wallets. Proof of Address utilises the Merkle tree, a cryptographic tool that enables the consolidation of large amounts of data into a single hash, which gives users the ability to verify specific contents that were included within a particular set of “sealed” data. By using a zk-SNARK, a crypto exchange can prove that all Merkle tree leaf nodes’ balance sets (i.e., user account balances) contribute to the exchange’s claimed total user asset balance. Each user can easily access their leaf node as having been included in the process. After this Proof of Reserve approach, many CEX followed Binance to publish at least something to show how they safeguard clients' funds, which is a big progress to crack the CEX black box.
+Crypto traders lost trust in CEX and focus on DEX (Decentralised Exchange) more. It was at this urgent time, Binance started its Proof of Reserve, which publishes its reserve address and tracks the balance of all the tokens in its wallets. Proof of Address utilises the Merkle tree, a cryptographic tool that enables the consolidation of large amounts of data into a single hash, which gives users the ability to verify specific contents that were included within a particular set of “sealed” data. By using a zk-SNARK, a crypto exchange can prove that all Merkle tree leaf nodes’ balance sets (i.e., user account balances) contribute to the exchange’s claimed total user asset balance[7]. Each user can easily access their leaf node as having been included in the process. After this Proof of Reserve approach, many CEX followed Binance to publish at least something to show how they safeguard clients' funds, which is a big progress to crack the CEX black box.
 
 ![image](BinanceReserve.png)
 
