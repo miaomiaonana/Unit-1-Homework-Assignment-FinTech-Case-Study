@@ -4,7 +4,7 @@
 
 Changpeng Zhao, a developer who previously designed high-frequency trading software, started Binance in 2017. Before creating Binance, CZ worked at OKCoin, which is also a top crypto exchange. And it was from Okex, CZ met He Yi, co-founder of Binance and the most important female in his life. He Yi is the person who encouraged CZ to invest in the crypto field in the early stages, and also, his wife.
 
-Back in 2017, ICO was the theme of the whole bull run. Binance was also successfully launched through a 15 million ICO, and $BNB was issued at around $0.15 during ICO. $BNB is still one of the most rewarded tokens with more than 200x returns within 4 years, relying on Binance's crazily high-profit business mode.
+Back in 2017, ICO was the theme of the whole bull run. Binance was also successfully launched through a 15 million ICO, and $BNB was issued at around $0.15 during ICO. $BNB is still one of the most rewarded tokens with more than 200x returns within 4 years, relying on Binance's crazily high-profit business model.
 
 ![image](BNB.png)
 
